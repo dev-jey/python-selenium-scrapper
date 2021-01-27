@@ -25,5 +25,12 @@ pip3 install -r requirments.txt
 
 3. Run the app
 '''
-python3 scrap.py
+python3 seleniumcrap.py
+'''
+
+or 
+
+
+'''
+python3 bs4scrap.py
 '''
