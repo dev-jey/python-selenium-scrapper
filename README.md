@@ -13,6 +13,11 @@ Selenium
 virtualenv -p python3 env
 '''
 
+2. Activate it
+'''
+source env/bin/activate
+'''
+
 2. Install Requirements
 '''
 pip3 install -r requirments.txt
